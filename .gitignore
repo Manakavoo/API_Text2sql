@@ -8,6 +8,7 @@ __pycache__/
 
 #added by me
 Sql.py
+fast_api.py
 docs.txt
 /test
 index.html
